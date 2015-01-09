@@ -1,0 +1,30 @@
+ol, ul {
+	list-style: none;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+h1, h2 {
+  font-family: "Nobile", sans-serif;
+  color: #19191a;
+}
+
+h3, h4, h5, h6 {
+  font-family: "Gudea", sans-serif;
+  color: #19191a;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: "News Cycle", sans-serif;
+}
+
+.titles{
+	font-weight: lighter
+}
+
+.base{
+	font-size: smaller;
+}
